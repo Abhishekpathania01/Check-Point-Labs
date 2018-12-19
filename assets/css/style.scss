@@ -4,12 +4,10 @@
 @import "{{ site.theme }}";
 .page-header {
     text-align: center;
-}
----
----
-
-@import "{{ site.theme }}";
+},
 .main-content {
     text-align: left;
     margin: 0;
 }
+
+
