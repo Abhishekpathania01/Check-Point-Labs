@@ -3,10 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.page-header{
-text-align: center;
-}
-.main-content{
+.page-header,.main-content{
     text-align: left;
     margin: 0;
 }
